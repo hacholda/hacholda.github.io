@@ -1,16 +1,16 @@
 # hacholda.github.io  NEIS0736
 <img src="Chol3.jpg" style="width:200px;"/>
-# AKA
+# Hachol Dabthong
+# AKA "นายหัว"
 
+Mr. Hachol Dabthong study Master of Science Program in Cyber Security at Mahanakorn university
+He received his B.S.Tech.Ed degrees in computer technology from KMUT'NB in 1994.
 
-# Biography
+# Responsbility
+Working over 20 years in System Integration (SI) for network security and software system.
+He perform project management. Established architect solution for customer and summary
+the budgets of projects in part of Network, System and Cyber Security.
 
-Mr. Hachol Dabthong received his B.S.Tech.Ed degrees in computer technology from KMUT'NB in 1994. 
-He working over 20 years in System Integration (SI) for network security and software system.
-
-Mr. Hachol Dabthong perform project management. Established architect solution for customer and summary
-the budgets of projects in part of IP Network, IP-Security ,LAN-WAN and Server System.
-
-# Hobbies
-
-His Hobbies include Cycling, running and travelling 
+# Certificate
+Cisco Certified Internetwork Expert Routing and Switching)
+Certified Information Systems Security Professional
