@@ -3,18 +3,16 @@
 
 # Hachol Dabthong  
 
-# \n AKA "นายหัว"
+# AKA "นายหัว"
 
 Mr. Hachol Dabthong study Master of Science Program in Cyber Security at Mahanakorn University of Technology
-\n
 He received his B.S.Tech.Ed degrees in computer technology from KMUT'NB in 1994.
 
 # Responsibility
 Working over 20 years in System Integration (SI) for network security and software system. 
-\n
-\nHe perform project management. Established architect solution for customer and summary
+He perform project management. Established architect solution for customer and summary
 the budgets of projects in part of Network, System and Cyber Security.
 
 # Certificate
-Cisco Certified Internetwork Expert (Routing and Switching)
+Cisco Certified Internetwork Expert (Routing and Switching)  \n
 Certified Information Systems Security Professional
