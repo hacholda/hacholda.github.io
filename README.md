@@ -5,13 +5,13 @@
 
 # AKA "นายหัว"
 
-Mr. Hachol Dabthong study Master of Science Program in Cyber Security at Mahanakorn University of Technology
+Mr. Hachol Dabthong received his B.S.Tech.Ed degrees in computer technology from KMUT'NB in 1994.
+He study Master of Science Program in Cyber Security at Mahanakorn University of Technology
 
-He received his B.S.Tech.Ed degrees in computer technology from KMUT'NB in 1994.
+# WORK EXPERIENCE
+Over 20 years of work experience in System Integration (SI) for IP-network ,security and system.
 
-# Responsibility
-Working over 20 years in System Integration (SI) for network security and software system. 
-
+# Responsibilities
 He perform project management. Established architect solution for customer and summary
 
 the budgets of projects in part of Network, System and Cyber Security.
