@@ -35,12 +35,12 @@ _ แนวทางการจัดเก็บ Logs _
 --------------------------------------------
 ```
 
+อ้างอิง
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `https://owasp.org/www-project-top-ten `
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements `
 
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `อ้างอิง `
-https://owasp.org/www-project-top-ten/
-https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements
-https://owasp.org/www-pdf-archive/OWASP_Application_Security_Verification_Standard_4.0-en.pdf
 
 
 
