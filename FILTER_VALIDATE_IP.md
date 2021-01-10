@@ -1,6 +1,5 @@
 # IP Address Validation 
 
-![](img/ip1.jpg)
 ![](img/ip2.jpg)
 
 
