@@ -4,7 +4,7 @@
   <img src="![](img/ip0.jpg)">
 </p>
 
-![](img/ip0.jpg)
+
 
 
 ### <span style="color: orange"> การตรวจสอบข้อมูล input ด้วย socket.inet_pton() method   </span>
@@ -63,7 +63,7 @@ Process finished with exit code 0
 https://www.w3schools.com
 https://stackoverflow.com/questions/319279/how-to-validate-ip-address-in-python
 
-
+![](img/ip0.jpg)
 
 
 
