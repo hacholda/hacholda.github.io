@@ -3,7 +3,7 @@
 ![](img/ip0.jpg)
 
 
-# <span style="color: orange"> การตรวจสอบข้อมูล input ด้วย socket.inet_pton() method   </span>
+### <span style="color: orange"> การตรวจสอบข้อมูล input ด้วย socket.inet_pton() method   </span>
 
 
 การรับค่า input ในทุก ๆ รูปแบบ ล้วนมีความจำเป็นที่จะต้องตรวจสอบเพื่อลดความเสี่ยงที่จะเกิดขึ้นกับ
