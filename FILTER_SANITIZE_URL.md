@@ -21,7 +21,7 @@ Function  FILTER_SANITIZE_URL สามารถช่วยกรองอั�
 ![](img/URL4.jpg)
 
 
-reference
+ข้อมูลอ้างอิง
 
 https://www.elithecomputerguy.com/2019/12/mysql-sanitize-variables-with-php-filter_var/
 https://blog.eduonix.com/web-programming-tutorials/php-filters/
