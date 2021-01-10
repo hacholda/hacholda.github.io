@@ -1,7 +1,7 @@
 # IP Address Validation 
 
 <p align="center">
-  <img width="600" height="200" src="![](img/ip0.jpg)">
+  <img src="![](img/ip0.jpg)">
 </p>
 
 ![](img/ip0.jpg)
