@@ -1,6 +1,7 @@
 # IP Address Validation 
 
 ![](img/ip1.jpg)
+![](img/ip2.jpg)
 
 
 ### <span style="color: orange"> การตรวจสอบข้อมูล input ด้วย socket.inet_pton() method   </span>
