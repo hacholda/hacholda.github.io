@@ -1,7 +1,8 @@
 # IP Address Validation 
 
-
+<p align="center">
 ![](img/ip0.jpg)
+</p>
 
 # <span style="color: orange"> การตรวจสอบข้อมูล input ด้วย socket.inet_pton() method   </span>
 
@@ -10,7 +11,7 @@
 Application และในการรับค่า input ที่เป็น IP Address ก็จำเป็นต้องตรวจสอบความถูกต้องด้วยเช่นกัน 
 และสำหรับการพัฒนาโปรแกรมด้วย Python นั้นเราสามารถใช้ method ในการตรวจสอบได้โดยไม่ยุ่งยาก   
 
-## การใช้งาน socket.inet_pton() method สำหรับตรวจสอบข้อมูลที่เป็น IP Address
+### การใช้งาน socket.inet_pton() method สำหรับตรวจสอบข้อมูลที่เป็น IP Address
 
 บน Python สามารถใช้ method ที่มีสำเร็จมาตรวจสอบได้เลย
 ตามตัวอย่างเป็นการตรวจสอบ IPv4 
