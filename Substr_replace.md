@@ -1,6 +1,6 @@
 # Substr_replace
 
-![](img/ip2.jpg)
+![](img/substr0.jpg)
 
 ### <span style="color: orange"> การปกปิดที่สำคัญข้อมูลด้วย Substr_replace method   </span>
 
