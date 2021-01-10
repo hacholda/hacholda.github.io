@@ -56,9 +56,6 @@ Process finished with exit code 0
 https://www.w3schools.com
 https://stackoverflow.com/questions/319279/how-to-validate-ip-address-in-python
 
-![](img/ip0.jpg)
-![](img/ip1.jpg)
-
 
 
 
