@@ -55,8 +55,8 @@ Process finished with exit code 0
 
 จากตัวอย่างเมื่อ run code 2 ครั้งโดยระบุ input เป็น IP Address 2 ค่า แสดงผลการตรวจสอบได้โดยสามารถตรวจสอบข้อมูล input ได้โดย return ค่า ออกมาเป็น True และ False
 
-
 แหล่งอ้างอิง
+
 https://www.w3schools.com
 https://stackoverflow.com/questions/319279/how-to-validate-ip-address-in-python
 
