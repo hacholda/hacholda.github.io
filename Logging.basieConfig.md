@@ -35,11 +35,10 @@ Log & Monitoring สิ่งสำคัญที่ไม่ควรมอง
 
 
 
+แหล่งข้อมูลอ้างอิง
 
-ข้อมูลอ้างอิง
-
-  - https://owasp.org/www-project-top-ten
-  - https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements
+ https://owasp.org/www-project-top-ten
+ https://gitlab.com/NEIS0736/2020/-/wikis/Requirement/V7.1-Log-Content-Requirements
 
 
 

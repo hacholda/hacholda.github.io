@@ -42,7 +42,7 @@ Echo $var;
 1234XXXXXXXX1234 
 ```
 
-แหล่งอ้างอิง
+แหล่งข้อมูลอ้างอิง
 
 https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_string_substr_replace
 https://www.imooh.com/

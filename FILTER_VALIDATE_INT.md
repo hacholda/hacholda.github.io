@@ -1,4 +1,4 @@
-# Input Validate ตอนที่ ...
+# Input Validate ตอนที่ 3
 ##  FILTER_VALIDATE_INT()
 
 
@@ -51,6 +51,6 @@ Function FILTER_VALIDATE_INT() จะทำการตรวจสอบแล�
 Variable value is not within the legal range
 ```
 
-อ้างอิง
+แหล่งข้อมูลอ้างอิง
 
 https://www.3wschool.com
