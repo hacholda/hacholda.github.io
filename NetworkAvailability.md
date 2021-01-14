@@ -1,5 +1,6 @@
 
-### <span style="color: orange">  ตรวจสอบ Network Availability ได้ง่ายๆ บน Python ด้วย OS.system()  </span>
+## Network Availability 
+### <span style="color: orange">  ตรวจสอบได้ง่ายๆ บน Python ด้วย OS.system()  </span>
 
 
 ![](img/network0.jpg)
