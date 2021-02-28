@@ -17,8 +17,8 @@ def send_message(From, To, Subject):
     s.login(msg['From'], 'asdf@1234')
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
-From =      "ptmsmut@gmail.com"
-To =        "6217810010@mutacth.com"
+From =      "SOURCE EMAIL"
+To =          "DESTINATION EMAIL"
 Subject =   "File Change"
 
 while True:
