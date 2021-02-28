@@ -14,7 +14,7 @@ def send_message(From, To, Subject):
     s = smtplib.SMTP("smtp.gmail.com", 587)
     s.ehlo()
     s.starttls()
-    s.login(msg['From'], 'asdf@1234')
+    s.login(msg['From'], 'SOURCE EMAIL PASSWORD')
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
 From =      "SOURCE EMAIL"
