@@ -1,0 +1,9 @@
+{
+  "Host_Detail": {
+    "VERSION": "2.0  29DEC2020",
+    "HOSTNAME" : "DataBase Server1",
+    "IP-ADDRESS": "192.168.20.30",
+    "USER": "root",
+    "PASSWORD": "123456"
+  }
+}
