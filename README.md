@@ -3,7 +3,7 @@
 
 # Hachol  Dabthong
 
-# AKA "นายหัว..."
+# AKA "Large-hearted-man"
 
 Mr. Hachol Dabthong received his B.S.Tech.Ed degrees in computer technology from KMUT'NB in 1994.
 He also studying M.S. Program in Cyber Security at Mahanakorn University of Technology.
